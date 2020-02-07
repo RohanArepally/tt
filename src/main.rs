@@ -48,7 +48,7 @@ fn main() {
     let matches = App::new("tt")
         .setting(AppSettings::AllowLeadingHyphen)
         .version(crate_version!())
-        .about("time transform utility")
+        .about("time transform utility v0.1.0")
         .arg(Arg::with_name("seconds")
             .validator(validate_i64)
             .takes_value(true)
