@@ -4,7 +4,7 @@ Time Transform is a CLI for working with unix timestamps.
 
 ## Installation
 
-binaries can be found in [releases](https://github.com/user/repo/blob/branch/other_file.md).
+binaries can be found in [releases](https://github.com/RohanArepally/tt/tree/master/releases).
 
 #### Mac OSX
 ```bash
