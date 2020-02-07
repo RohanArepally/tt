@@ -8,7 +8,7 @@ binaries can be found in [releases](https://github.com/user/repo/blob/branch/oth
 
 #### Mac OSX
 ```bash
-sudo curl -L https://github.com/RohanArepally/tt/raw/master/releases/tt-0.1.0-x86_64-apple-darwin.tar.gz | tar -xv && mv tt /usr/local/bin
+curl -L https://github.com/RohanArepally/tt/raw/master/releases/tt-0.1.0-x86_64-apple-darwin.tar.gz | tar -xv && sudo mv tt /usr/local/bin
 ```
 
 ## Usage
